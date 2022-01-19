@@ -18,6 +18,6 @@
   
   ## 
   <div>
-  <a href = "mailto:walison.vinicios12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+  <a href = "mailto:gui.pavezzi07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   <a href="https://www.linkedin.com/in/guilherme-pavezzi-029361206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
 <div>
