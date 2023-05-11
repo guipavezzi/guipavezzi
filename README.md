@@ -1,11 +1,4 @@
  ## Olá! Eu sou o Guilherme Fernandes Pavezzi
-
-<div>
-  <a href="https://github.com/guipavezzi">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=guipavezzi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipavezzi&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
   
 <div style="display: inline_block"><br>
   <img align="center" alt="gui-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
