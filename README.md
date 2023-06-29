@@ -2,7 +2,6 @@
   
   <div>
   <a href="https://github.com/guipavezzi">
-  ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guipavezzi&show_icons=true&theme=radical)
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipavezzi&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
