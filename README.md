@@ -3,7 +3,7 @@
 
 <div>
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guipavezzi&show_icons=true&theme=radical&include_all_commits=true)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guipavezzi&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guipavezzi&layout=compact&theme=radical)](https://github.com/guipavezzi/github-readme-stats)
 
 </div>
