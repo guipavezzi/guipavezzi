@@ -1,45 +1,62 @@
- ## Olá! Eu sou o Guilherme Fernandes Pavezzi
-  
+## 👋 Hello! I'm Guilherme Fernandes Pavezzi
 
-<div>
+I'm a full stack developer focused on **.NET (C#)** for the back-end and **Angular** for the front-end. I enjoy learning new technologies and solving problems in a practical and efficient way.
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guipavezzi&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guipavezzi&layout=compact&theme=radical)](https://github.com/guipavezzi/github-readme-stats)
+---
 
+### 📈 My GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guipavezzi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipavezzi&layout=compact&theme=radical" />
 </div>
 
+---
 
+### 🚀 My Main Stack
 
-### Tecnologias que uso no meu dia
-<div>
-<img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white'>
-<img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'>
-<img src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'>
-
-<img src='https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white'>
-<img src='https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white'>
-<img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'>
-
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-<img src='https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white'>
-
-
-
-<br>
-
-### Tecnologias que já estudei 
-
-
-<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
-<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'>
-<img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
-<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
-<img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white'>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img width="45" src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" title="C#" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" title=".NET Core" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=6SWtW8hxZWSo&format=png&color=000000" title="Angular" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=PVRwpTTPMITk&format=png&color=000000" title="JavaScript" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" title="TypeScript" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=VXrhJ3LqtY7e&format=png&color=000000" title="SQL" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000" title="Docker" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" title="Tailwind CSS" />
 </div>
 
+---
 
-### Minhas redes
-<a href = "mailto:gui.pavezzi07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-<a href="https://www.linkedin.com/in/guilherme-pavezzi-029361206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-<a>
+### 🔍 Other Technologies I've Explored
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+  <img width="45" src="https://img.icons8.com/?size=100&id=TINShjDQ0nw4&format=png&color=000000" title="Java" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" title="Dart" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=IYQQHplg11Ie&format=png&color=000000" title="Flutter" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=qBvOwZw81tVy&format=png&color=000000" title="Python" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" title="React" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring" />
+</div>
+
+---
+
+### 🌐 My Links
+
+- 💼 [Portfolio](https://guilhermepavezzi.com)
+- ✉️ [Email](mailto:gui.pavezzi07@gmail.com)
+- 💻 [LinkedIn](https://www.linkedin.com/in/guilherme-pavezzi-029361206/)
+
+---
+
+### 📝 About Me
+
+- 🎓 Constantly studying back-end development and software architecture best practices  
+- 🌱 Currently focused on projects involving authentication, REST APIs, and Docker  
+- 🚀 I enjoy putting ideas into practice through personal projects
+
+---
+
+### 💬 Let's connect!
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/guilherme-pavezzi-029361206/) or send me an email! I’d love to chat about software development! 🚀
