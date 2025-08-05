@@ -24,6 +24,7 @@ I'm a full stack developer focused on **.NET (C#)** for the back-end and **Angul
   <img width="45" src="https://img.icons8.com/?size=100&id=VXrhJ3LqtY7e&format=png&color=000000" title="SQL" />
   <img width="45" src="https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000" title="Docker" />
   <img width="45" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" title="Tailwind CSS" />
+  <img width="45" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" title="Git" />
 </div>
 
 ---
