@@ -44,9 +44,9 @@ I'm a full stack developer focused on **.NET (C#)** for the back-end and **Angul
 
 ### 🌐 My Links
 
-- 💼 [Portfolio](https://guilhermepavezzi.com)
+- 💼 [Portfolio](https://guipavezzi.github.io/Portfolio/)
 - ✉️ [Email](mailto:gui.pavezzi07@gmail.com)
-- 💻 [LinkedIn](https://www.linkedin.com/in/guilherme-pavezzi-029361206/)
+- 💻 [LinkedIn](https://www.linkedin.com/in/guilherme-fernandes-pavezzi-029361206/)
 
 ---
 
