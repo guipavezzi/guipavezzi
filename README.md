@@ -4,15 +4,6 @@ I'm a full stack developer focused on **.NET (C#)** for the back-end and **Angul
 
 ---
 
-### 📈 My GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guipavezzi&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipavezzi&layout=compact&theme=radical" />
-</div>
-
----
-
 ### 🚀 My Main Stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
