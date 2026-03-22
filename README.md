@@ -1,54 +1,63 @@
-## 👋 Hello! I'm Guilherme Fernandes Pavezzi
+# Hi there, I'm Guilherme Fernandes Pavezzi 👋
 
-I'm a full stack developer focused on **.NET (C#)** for the back-end and **Angular** for the front-end. I enjoy learning new technologies and solving problems in a practical and efficient way.
+### Full Stack Software Developer | C# • .NET • Angular
+
+I am a results-driven software developer with a solid foundation in building scalable web applications and microservices. With professional experience in the tech industry since 2020, I specialize in the Microsoft ecosystem and modern frontend frameworks to deliver high-quality, maintainable code.
 
 ---
 
-### 🚀 My Main Stack
+### 🚀 About Me
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img width="45" src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000" title="C#" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000" title=".NET Core" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=6SWtW8hxZWSo&format=png&color=000000" title="Angular" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=PVRwpTTPMITk&format=png&color=000000" title="JavaScript" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000" title="TypeScript" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=VXrhJ3LqtY7e&format=png&color=000000" title="SQL" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=LdUzF8b5sz2R&format=png&color=000000" title="Docker" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" title="Tailwind CSS" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" title="Git" />
+* 💻 Currently enhancing my expertise in **C#, .NET, and Angular** to build robust enterprise solutions.
+* 🎓 Pursuing a degree in **Information Technology**, focusing on Data Structures and Software Engineering.
+* 🛠️ Experienced in developing solutions for the logistics and aviation sectors, specifically in **EDI and tintometric systems**.
+* ⚡ I value clean code, aesthetic UI design, and optimized performance.
+
+---
+
+### 🛠️ Main Stack
+
+I use these technologies on a daily basis to build end-to-end applications:
+
+<div style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;">
+  <img width="38" src="https://api.iconify.design/logos/c-sharp.svg" title="C#"/>
+  <img width="38" src="https://api.iconify.design/logos/dotnet.svg" title=".NET"/>
+  <img width="38" src="https://api.iconify.design/logos/angular-icon.svg" title="Angular"/>
+  <img width="38" src="https://api.iconify.design/logos/typescript-icon.svg" title="TypeScript"/>
+  <img width="38" src="https://api.iconify.design/logos/javascript.svg" title="JavaScript"/>
+  <img width="38" src="https://api.iconify.design/logos/mysql-icon.svg" title="SQL"/>
+  <img width="38" src="https://api.iconify.design/logos/docker-icon.svg" title="Docker"/>
+  <img width="38" src="https://api.iconify.design/logos/tailwindcss-icon.svg" title="Tailwind CSS"/>
+  <img width="38" src="https://api.iconify.design/logos/git-icon.svg" title="Git"/>
 </div>
 
 ---
 
 ### 🔍 Other Technologies I've Explored
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-  <img width="45" src="https://img.icons8.com/?size=100&id=TINShjDQ0nw4&format=png&color=000000" title="Java" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=7AFcZ2zirX6Y&format=png&color=000000" title="Dart" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=IYQQHplg11Ie&format=png&color=000000" title="Flutter" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=qBvOwZw81tVy&format=png&color=000000" title="Python" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" title="React" />
-  <img width="45" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" title="Spring" />
+Experience with different paradigms and languages for specific projects and research:
+
+<div style="display:flex;flex-wrap:wrap;gap:18px;align-items:center;">
+  <img width="38" src="https://api.iconify.design/logos/java.svg" title="Java"/>
+  <img width="38" src="https://api.iconify.design/logos/spring-icon.svg" title="Spring"/>
+  <img width="38" src="https://api.iconify.design/logos/python.svg" title="Python"/>
+  <img width="38" src="https://api.iconify.design/logos/react.svg" title="React"/>
+  <img width="38" src="https://api.iconify.design/logos/flutter.svg" title="Flutter"/>
+  <img width="38" src="https://api.iconify.design/logos/dart.svg" title="Dart"/>
 </div>
 
 ---
 
-### 🌐 My Links
+### 🌐 Connect with Me
 
-- 💼 [Portfolio](https://guipavezzi.github.io/Portfolio/)
-- ✉️ [Email](mailto:gui.pavezzi07@gmail.com)
-- 💻 [LinkedIn](https://www.linkedin.com/in/guilherme-fernandes-pavezzi-029361206/)
+Let's collaborate on a project or just talk about tech:
 
----
-
-### 📝 About Me
-
-- 🎓 Constantly studying back-end development and software architecture best practices  
-- 🌱 Currently focused on projects involving authentication, REST APIs, and Docker  
-- 🚀 I enjoy putting ideas into practice through personal projects
+* 🌐 **Portfolio:** [guipavezzi.github.io/Portfolio](https://guipavezzi.github.io/Portfolio/)
+* 💼 **LinkedIn:** [linkedin.com/in/guilherme-fernandes-pavezzi](https://www.linkedin.com/in/guilherme-fernandes-pavezzi-029361206/)
+* ✉️ **Email:** [gui.pavezzi07@gmail.com](mailto:gui.pavezzi07@gmail.com)
 
 ---
 
-### 💬 Let's connect!
-
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/guilherme-pavezzi-029361206/) or send me an email! I’d love to chat about software development! 🚀
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guipavezzi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+</div>
