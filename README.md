@@ -55,9 +55,3 @@ Let's collaborate on a project or just talk about tech:
 * 🌐 **Portfolio:** [guipavezzi.github.io/Portfolio](https://guipavezzi.github.io/Portfolio/)
 * 💼 **LinkedIn:** [linkedin.com/in/guilherme-fernandes-pavezzi](https://www.linkedin.com/in/guilherme-fernandes-pavezzi-029361206/)
 * ✉️ **Email:** [gui.pavezzi07@gmail.com](mailto:gui.pavezzi07@gmail.com)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guipavezzi&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</div>
