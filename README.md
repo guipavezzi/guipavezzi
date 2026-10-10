@@ -52,6 +52,6 @@ Experience with different paradigms and languages for specific projects and rese
 
 Let's collaborate on a project or just talk about tech:
 
-* 🌐 **Portfolio:** [guilhermepavezzi.com](https://guilhermepavezzi.com/)
+* 🌐 **Portfolio:** [portifolio.guilhermepavezzi.com](https://portifolio.guilhermepavezzi.com/)
 * 💼 **LinkedIn:** [linkedin.com/in/guilherme-fernandes-pavezzi](https://www.linkedin.com/in/guilherme-fernandes-pavezzi-029361206/)
 * ✉️ **Email:** [gui.pavezzi07@gmail.com](mailto:gui.pavezzi07@gmail.com)
